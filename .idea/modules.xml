@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/luck-manager/luck-dataservice/luck-dataservice.iml" filepath="$PROJECT_DIR$/luck-manager/luck-dataservice/luck-dataservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/luck-manager/luck-exterface/luck-exterface.iml" filepath="$PROJECT_DIR$/luck-manager/luck-exterface/luck-exterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/luck-manager/luck-manager.iml" filepath="$PROJECT_DIR$/luck-manager/luck-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/luck-parent/luck-parent.iml" filepath="$PROJECT_DIR$/luck-parent/luck-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/luck-web/luck-web.iml" filepath="$PROJECT_DIR$/luck-web/luck-web.iml" />
+    </modules>
+  </component>
+</project>
